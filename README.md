@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://github.com/matheusdiass1/Projeto---Conversor-de-Moedas-com-JS-DevClub/blob/main/assets/conversor-moedass.png?raw=true">
+<img src="https://github.com/matheusdiass1/Projeto-Conversor-de-Moedas-com-JS-DevClub/blob/main/assets/conversor-moedas.png?raw=true">
